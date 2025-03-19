@@ -1,0 +1,69 @@
+.card-pf {
+	margin: 0 auto;
+	box-shadow: var(--pf-global--BoxShadow--lg);
+	padding: 0 20px;
+	max-width: 500px;
+	border-top: 4px solid;
+	border-color: #11db00;
+}
+#kc-header-wrapper {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    line-height: 1.2em;
+    padding: 62px 10px 20px;
+    white-space: normal;
+    font-family: emoji;
+    color: beige;
+}
+.card-pf {
+    margin: 0 auto;
+    box-shadow: var(--pf-global--BoxShadow--lg);
+    padding: 0 20px;
+    max-width: 500px;
+    border-top: 4px solid;
+    border-color: #488D41;
+}
+.login-pf-page .card-pf {
+    padding: 20px 40px 30px 40px;
+    background: rgba(255, 255, 255, 0.59);
+}
+#kc-locale-dropdown button {
+	background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+	color: var(--pf-global--Color--200);
+	text-align: right;
+	font-size: var(--pf-global--FontSize--sm);
+	display: none;
+}
+.pf-c-button.pf-m-primary {
+    color: var(--pf-c-button--m-primary--Color);
+    background-color: #488D41;
+    border-radius: 21px;
+}
+#kc-info-wrapper {
+    font-size: 13px;
+    padding: 15px 35px;
+    background-color: #F0F0F0;
+    display: none;
+}
+.login-pf-page .card-pf {
+    padding: 20px 40px 30px 40px;
+    background: rgba(255, 255, 255, 0.59);
+    border-radius: 15px;
+}
+
+a {
+    font-weight: var(--pf-global--link--FontWeight);
+    color: #488D41;
+    text-decoration: var(--pf-global--link--TextDecoration);
+}
+.pf-c-button.pf-m-primary {
+    color: var(--pf-c-button--m-primary--Color);
+    background-color: #488D41;
+    border-radius: 21px;
+    padding: 2%;
+    font-size: large;
+}
